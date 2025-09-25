@@ -40,3 +40,12 @@ h3 {
     background-color: lightgray;
 }
 */
+
+/* Navbar */
+#navbar {
+    background-color: var(--primary-color);
+}
+
+#navbar .logo {
+    width: 30px;
+}
