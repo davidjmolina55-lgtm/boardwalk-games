@@ -134,6 +134,16 @@ h2 {
     color: white;
 }
 
+.custom-button-blue {
+    border: 2px solid var(--highlight-color);
+    background-color: var(--highlight-color);
+    color: white;
+}
+
+.custom-button-blue:hover {
+    border: 2px solid var(--secondary-color);
+    background-color: var(--secondary-color);
+}
 /* Navbar */
 #navbar {
     background-color: var(--primary-color);
